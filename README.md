@@ -1,6 +1,6 @@
 An abstract, experimental videogame meant to evoke the feeling of being alone while surrounded by people.  Programmed using Python 2 and PyGame. Hendrix College senior project.
 
-For illustrative purposes, three versions are presented:
+For historical purposes, three versions are presented:
 
 Version 1 contains my first attempt at a decision algorithm for the game’s NPCs (shapes). This intricate, detailed algorithm reliably made every shape move up and to the left, all the time, every time.
 
